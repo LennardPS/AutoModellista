@@ -48,7 +48,11 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
-
+AutoModelistaUnreal/Intermediate/Android/*
+AutoModelistaUnreal/Build/*
+AutoModelistaUnreal/Saved/*
+AutoModelistaUnreal/Intermediate/*
+AutoModelistaUnreal/Binaries/*
 # Builds
 Build/*
 
@@ -72,3 +76,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Android Build
+Builds/
